@@ -1,0 +1,198 @@
+/* <!-- trafalgar tipe --> */
+
+
+.box {
+  display: inline-block;
+}
+
+.list {
+  display: inline-block;
+  list-style: none;
+  text-align: end;
+  
+}
+
+.item-home {
+  display: inline-block;
+  width: 600px;
+}
+
+.item-Find-a-doctor {
+  display: inline-block;
+  width: 150px;
+}
+
+.item-Apps {
+  display: inline-block;
+  width: 84px;
+}
+
+.item-Testimonials {
+  display: inline-block;
+  width: 144px;
+}
+
+.item-About-us {
+  display: inline-block; 
+  width: 116px;
+}
+
+/* <!-- Virtual healthcare for you tipe --> */
+
+
+.box-mini {
+  display: inline-block;
+}
+
+.box-link {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: #458FF6;
+  border-radius: 55px;
+  
+}
+
+.box-img {
+  vertical-align: middle;
+  display: inline-block;
+  width: 693px;
+  height: 598px;
+}
+
+/* <!-- Our services tipe --> */
+
+
+.heading-Our-services {
+  text-align: center;
+}
+
+.hr {
+  text-align: center;
+  width: 50px;
+}
+
+.heading-text {
+  text-align: center;
+}
+
+.heading-list {
+  list-style: none;
+  text-align: center;
+}
+
+.heading-item {
+  display: inline-block;
+  width: 250px;
+}
+
+.heading-box{
+  display: block;
+  text-align: center;
+}
+
+.heading-link {
+  display: inline-block;
+  border: 2px solid  #458FF6 ;
+  text-align: center;
+  text-decoration: none;
+  color: #458FF6;
+  background-color: #FFFFFF;
+  border-radius: 55px;
+}
+
+
+/* <!-- Leading healthcare providers --> */
+
+
+.box-healthcare {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+.heading-healthcare {
+  display: inline-block;
+}
+
+.link-learn-more {
+  display: inline-block;
+  border: 2px solid  #458FF6 ;
+  text-align: center;
+  text-decoration: none;
+  color: #458FF6;
+  background-color: #FFFFFF;
+  border-radius: 55px;
+}
+
+.box-Download {
+   display: inline-block;
+}
+
+.Download-link {
+  display: inline-block;
+  border: 2px solid  #458FF6 ;
+  text-align: center;
+  text-decoration: none;
+  color: #458FF6;
+  background-color: #FFFFFF;
+  border-radius: 55px;
+}
+
+
+.Download-img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* What our customer are saying */
+
+
+.box-personal {
+  display: block;
+  text-align: center;
+  background-color: #458FF6;
+  border-radius: 45px;
+}
+
+.text-h2 {
+  text-align: center;
+  display: inline-block;
+  color: #FFFFFF;
+}
+
+.text-hr {
+  width: 40px;
+  display: inline-block;
+  color: #FFFFFF;
+}
+
+.text-h4 {
+  display: block;
+  color: #FFFFFF;
+}
+
+.text-p {
+  display: inline-block;
+  color: #FFFFFF;
+}
+
+
+.text-p-right {
+  width: 520px;
+  display: inline-block;
+  color: #FFFFFF;
+}
+
+.hero-mini {
+  display: inline-block;
+}
+
+.hero {
+  display: inline-block;
+}
+
+.person-pic {
+  border-radius: 50%;
+  border: 2px solid #FFFFFF;
+}
